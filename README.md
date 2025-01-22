@@ -1,6 +1,6 @@
 # ELO Javadoc Scraper
 
-A Python script that scrapes ELO Javadoc documentation and converts it into Markdown format. This tool is designed to make ELO's Java API documentation more accessible and easier to read.
+A Python script that scrapes ELO Javadoc documentation and converts it into Markdown format. This tool is designed to make ELO's Java API documentation more accessible and easier to read for AI.
 
 ## Features
 
